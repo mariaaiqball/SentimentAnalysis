@@ -4,7 +4,7 @@ import pandas as pd
 
 
 # variables to initialize
-BEARER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAALwt1AEAAAAAS5smVaGXeh3EjSHBGKI5qxvVW4w%3DfqcAXKmTN0E4QTzTDYY9ghZ1DVp7AcKh6TXIc649HtymDWLiM4'
+BEARER_TOKEN = ""
 '''CHANGE FILE NAME '''
 FILENAME = 'sb.csv' 
 
